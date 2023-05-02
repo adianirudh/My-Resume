@@ -1,0 +1,222 @@
+body {
+			background-color: aliceblue;
+			font-family: Arial, Helvetica, sans-serif;
+			/*padding: 20px;*/
+		/*	border: 2px solid black;
+			border-radius: 15px;
+			max-width: 800px;
+			margin: 20px auto;
+			box-shadow: 0 0 30px rgba(0,0,0,0.2);*/
+			/*font-size: 20px;*/
+		}
+
+		.background{
+			padding: 20px;
+			border: 2px solid black;
+			border-radius: 15px;
+			max-width: 800px;
+			margin: 20px auto;
+			box-shadow: 0 0 45px rgba(0,0,0,0.2);
+			background-color: white;
+		}
+
+		header{
+			text-align: center;
+		}
+
+		.contact{
+			font-size: 18px;
+		}
+
+		.summary-para{
+			font-size: 18px;
+		}
+
+		.contact-info{
+			font-size: 18px;
+		}
+
+		.contact-para{
+			margin-left: 90px;
+		}
+
+		table, th, td{
+			border: 3px solid black;
+			text-align: center;
+			border-collapse: collapse;
+			padding: 5px;
+		}
+		table{
+			margin: 10px auto;
+		}
+				
+		h1 {
+			text-align: center;
+			margin-top: 0;
+			font-size: 32px;
+		}
+		
+		h2 {
+			margin-top: 20px;
+			margin-bottom: 10px;
+			font-size: 22px;
+		}
+		
+		h3 {
+			margin-top: 10px;
+			margin-bottom: 5px;
+			font-size: 16px;
+		}
+		
+		p {
+			margin-bottom: 5px;
+		}
+		
+		.section {
+			margin-top: 30px;
+		}
+		
+		.education{
+			font-size: 18px;
+		}
+		
+		/*.section-heading {
+			font-size: 24px;
+			font-weight: bold;
+			margin-top: 0;
+			margin-bottom: 10px;
+			text-transform: uppercase;*/
+		
+		
+		.subsection {
+			margin-top: 20px;
+			margin-bottom: 10px;
+		}
+		
+		/*.subsection-heading {
+			font-size: 18px;
+			font-weight: bold;
+			margin-top: 0;
+			margin-bottom: 10px;*/
+		
+		
+		.subsection-item {
+			margin-bottom: 5px;
+		}
+		
+		.contact-details {
+			display: flex;
+			flex-wrap: wrap;
+			align-items: center;
+			justify-content: center;
+			margin-top: 20px;
+		}
+		
+		.contact-details p {
+			margin-right: 20px;
+			margin-bottom: 0;
+		}
+		
+		.contact-details a {
+			text-decoration: none;
+			color: #4CAF50;
+		}
+		
+		.skills {
+			display: grid;
+			/*flex-wrap: wrap;*/
+			margin-top: 20px;
+
+		}
+		
+		.skill {
+			padding: 5px;
+			margin-right: 10px;
+			margin-bottom: 5px;
+			/*background-color: #4CAF50;*/
+			color: black;
+			/*border-radius: 5px;*/
+			font-size: 18px;
+		}
+		
+		.hobbies {
+			margin-top: 20px;
+		}
+		
+		.hobby {
+			display: inline-block;
+			padding: 5px;
+			margin-right: 10px;
+			margin-bottom: 5px;
+			/*background-color: #4CAF50;*/
+			color: black;
+			/*border-radius: 5px;*/
+			font-size: 18px;
+		}
+		
+		.certifications {
+			margin-top: 20px;
+		}
+		
+		.certification {
+			margin-bottom: 10px;
+		}
+		
+		.certification-title {
+			font-size: 18px;
+			font-weight: bold;
+			margin-top: 0;
+			margin-bottom: 5px;
+		}
+		
+		.certification-author {
+			font-size: 16px;
+			margin-top: 0;
+			margin-bottom: 5px;
+		}
+		
+	
+				.certification-link {
+			margin-bottom: 5px;
+		}
+		
+		.certification-link a {
+			text-decoration: none;
+			color: #4CAF50;
+		}
+		
+		.experience {
+			margin-top: 20px;
+		}
+		
+		.experience-item {
+			margin-bottom: 10px;
+		}
+		
+		.experience-title {
+			font-size: 18px;
+			font-weight: bold;
+			margin-top: 0;
+			margin-bottom: 5px;
+		}
+		
+		.experience-date {
+			font-size: 16px;
+			margin-top: 0;
+			margin-bottom: 5px;
+		}
+		
+		.experience-description {
+			margin-bottom: 5px;
+			font-size: 18px;
+		}
+		
+		.experience-link {
+			margin-bottom: 5px;
+		}
+		
+		.experience-link a {
+			text-decoration: none;
+			color: #4CAF50;
+		}
+		
